@@ -6,8 +6,14 @@ public class PlayerController : MonoBehaviour
 {
     //Implement player movement
     public float speed;
+    private Vector3 movePos;
     private void MovePlayer()
     {
-        //Moves the player
+
+    }
+
+    private void Jump()
+    {
+
     }
 }
